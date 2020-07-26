@@ -53,8 +53,8 @@ const applyCustomDarkModeSettings = (mode) => {
 };
 
 const invertDarkModeObj = {
-  dark: "dark",
-  light: "light",
+  dark: "light",
+  light: "dark",
 };
 
 const toggleCustomDarkMode = () => {
